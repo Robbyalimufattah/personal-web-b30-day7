@@ -1,0 +1,25 @@
+.bg-orange{
+    background-color: orangered;
+}
+
+.text-orange{
+    color: orangered !important;
+}
+
+.navbar {
+    /* background: blueviolet; */
+    height: 7vh;
+}
+
+.container-fluid{
+    /* background: cyan; */
+    height: 100vh;
+}
+
+.container-form{
+    width: 400px;
+}
+
+.text-area{
+    resize: none;
+}
